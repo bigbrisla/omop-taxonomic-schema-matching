@@ -1,0 +1,22 @@
+{
+    "matches": [
+        {
+            "source_table": "patients_vertical_50_ec_av_source",
+            "source_column": "PatientID",
+            "target_table": "patients_vertical_50_ec_av_target",
+            "target_column": "PatientID"
+        },
+        {
+            "source_table": "patients_vertical_50_ec_av_source",
+            "source_column": "LastName",
+            "target_table": "patients_vertical_50_ec_av_target",
+            "target_column": "LastName"
+        },
+        {
+            "source_table": "patients_vertical_50_ec_av_source",
+            "source_column": "Age",
+            "target_table": "patients_vertical_50_ec_av_target",
+            "target_column": "Age"
+        }
+    ]
+}

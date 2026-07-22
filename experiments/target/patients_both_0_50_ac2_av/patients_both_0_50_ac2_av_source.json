@@ -1,0 +1,14 @@
+{
+    "PatientID": {
+        "type": "int"
+    },
+    "LastName": {
+        "type": "str"
+    },
+    "Age": {
+        "type": "int"
+    },
+    "FirstName": {
+        "type": "str"
+    }
+}

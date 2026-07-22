@@ -1,0 +1,20 @@
+{
+    "PaID": {
+        "type": "int"
+    },
+    "FirNa": {
+        "type": "str"
+    },
+    "LaNa": {
+        "type": "str"
+    },
+    "Ci": {
+        "type": "str"
+    },
+    "Ag": {
+        "type": "int"
+    },
+    "In": {
+        "type": "float"
+    }
+}

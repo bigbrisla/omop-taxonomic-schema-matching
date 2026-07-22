@@ -1,0 +1,6 @@
+source,target
+person_id,person_id
+race_concept_id,race_concept_id
+year_of_birth,year_of_birth
+gender_concept_id,gender_concept_id
+procedure_2,procedure_2

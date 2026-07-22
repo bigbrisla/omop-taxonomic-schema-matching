@@ -1,0 +1,24 @@
+{
+  "matches": [
+    {
+      "source_column": "person_id",
+      "target_column": "person_id"
+    },
+    {
+      "source_column": "race_concept_id",
+      "target_column": "race_concept_id"
+    },
+    {
+      "source_column": "procedure_1",
+      "target_column": "procedure_1"
+    },
+    {
+      "source_column": "condition_1",
+      "target_column": "condition_1"
+    },
+    {
+      "source_column": "procedure_2",
+      "target_column": "procedure_2"
+    }
+  ]
+}

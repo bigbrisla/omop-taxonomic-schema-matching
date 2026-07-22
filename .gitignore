@@ -1,0 +1,13 @@
+# ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# sistema
+.DS_Store
+
+# gerarchia dei concetti: rigenerabile con extract_universal_hierarchy.py
+omop/concept_ancestor_full.csv
+omop/concept_ancestor_universal.csv
+omop/concept_ancestor_universal_full.csv
+omop/concept_names_universal.csv

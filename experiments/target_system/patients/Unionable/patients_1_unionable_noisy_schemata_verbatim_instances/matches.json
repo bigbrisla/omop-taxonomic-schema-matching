@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "source",
+            "source_column": "PatientID",
+            "target_table": "target",
+            "target_column": "ptntd"
+        },
+        {
+            "source_table": "source",
+            "source_column": "FirstName",
+            "target_table": "target",
+            "target_column": "frstnm"
+        },
+        {
+            "source_table": "source",
+            "source_column": "LastName",
+            "target_table": "target",
+            "target_column": "lstnm"
+        },
+        {
+            "source_table": "source",
+            "source_column": "City",
+            "target_table": "target",
+            "target_column": "ct"
+        },
+        {
+            "source_table": "source",
+            "source_column": "Age",
+            "target_table": "target",
+            "target_column": "g"
+        },
+        {
+            "source_table": "source",
+            "source_column": "Income",
+            "target_table": "target",
+            "target_column": "ncm"
+        }
+    ]
+}

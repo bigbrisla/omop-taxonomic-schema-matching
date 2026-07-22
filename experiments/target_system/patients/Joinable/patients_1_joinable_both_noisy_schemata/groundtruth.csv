@@ -1,0 +1,5 @@
+source,target
+PatientID,patients_PatID
+Age,patients_Ag
+City,patients_Ci
+Income,patients_In

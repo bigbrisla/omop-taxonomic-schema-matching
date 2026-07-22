@@ -1,0 +1,17 @@
+{
+    "PaID": {
+        "type": "int"
+    },
+    "LNa": {
+        "type": "str"
+    },
+    "Ag": {
+        "type": "int"
+    },
+    "C": {
+        "type": "str"
+    },
+    "Inc": {
+        "type": "float"
+    }
+}

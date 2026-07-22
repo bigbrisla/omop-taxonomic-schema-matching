@@ -1,0 +1,7 @@
+person_id,int
+gender_concept_id,int
+year_of_birth,int
+condition_concept_id,int
+procedure_concept_id,int
+drug_concept_id,int
+observation_concept_id,int

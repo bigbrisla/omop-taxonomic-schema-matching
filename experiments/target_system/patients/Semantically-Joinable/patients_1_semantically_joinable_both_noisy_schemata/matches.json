@@ -1,0 +1,10 @@
+{
+    "matches": [
+        {
+            "source_table": "source",
+            "source_column": "PatientID",
+            "target_table": "target",
+            "target_column": "patients_PatientID"
+        }
+    ]
+}

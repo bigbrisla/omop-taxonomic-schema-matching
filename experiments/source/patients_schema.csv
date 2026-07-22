@@ -1,0 +1,6 @@
+PatientID,int
+FirstName,str
+LastName,str
+City,str
+Age,int
+Income,float

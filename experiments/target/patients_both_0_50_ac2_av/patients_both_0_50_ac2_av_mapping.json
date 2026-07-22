@@ -1,0 +1,22 @@
+{
+    "matches": [
+        {
+            "source_table": "patients_both_0_50_ac2_av_source",
+            "source_column": "PatientID",
+            "target_table": "patients_both_0_50_ac2_av_target",
+            "target_column": "PaID"
+        },
+        {
+            "source_table": "patients_both_0_50_ac2_av_source",
+            "source_column": "LastName",
+            "target_table": "patients_both_0_50_ac2_av_target",
+            "target_column": "LNa"
+        },
+        {
+            "source_table": "patients_both_0_50_ac2_av_source",
+            "source_column": "Age",
+            "target_table": "patients_both_0_50_ac2_av_target",
+            "target_column": "Ag"
+        }
+    ]
+}

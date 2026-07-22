@@ -1,0 +1,17 @@
+{
+    "ptntd": {
+        "type": "int"
+    },
+    "frstnm": {
+        "type": "str"
+    },
+    "ncm": {
+        "type": "float"
+    },
+    "ct": {
+        "type": "str"
+    },
+    "g": {
+        "type": "int"
+    }
+}

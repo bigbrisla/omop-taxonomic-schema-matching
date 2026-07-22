@@ -1,0 +1,24 @@
+{
+  "matches": [
+    {
+      "source_column": "person_id",
+      "target_column": "person_id"
+    },
+    {
+      "source_column": "observation_1",
+      "target_column": "observation_1"
+    },
+    {
+      "source_column": "condition_1",
+      "target_column": "condition_1"
+    },
+    {
+      "source_column": "procedure_2",
+      "target_column": "procedure_2"
+    },
+    {
+      "source_column": "gender_concept_id",
+      "target_column": "gender_concept_id"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+source,target
+person_id,person_id
+drug_concept_id,drug_concept_id
+condition_concept_id,condition_concept_id

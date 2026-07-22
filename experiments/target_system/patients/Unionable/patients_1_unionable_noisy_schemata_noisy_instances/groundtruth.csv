@@ -1,0 +1,7 @@
+source,target
+PatientID,patients_ptntd
+FirstName,patients_frstnm
+LastName,patients_lstnm
+City,patients_ct
+Age,patients_g
+Income,patients_ncm

@@ -1,0 +1,16 @@
+{
+  "matches": [
+    {
+      "source_column": "person_id",
+      "target_column": "person_id"
+    },
+    {
+      "source_column": "drug_concept_id",
+      "target_column": "drug_concept_id"
+    },
+    {
+      "source_column": "procedure_concept_id",
+      "target_column": "procedure_concept_id"
+    }
+  ]
+}

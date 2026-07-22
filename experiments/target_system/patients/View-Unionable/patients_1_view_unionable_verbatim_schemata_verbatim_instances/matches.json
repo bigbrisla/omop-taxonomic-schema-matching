@@ -1,0 +1,28 @@
+{
+    "matches": [
+        {
+            "source_table": "source",
+            "source_column": "PatientID",
+            "target_table": "target",
+            "target_column": "PatientID"
+        },
+        {
+            "source_table": "source",
+            "source_column": "City",
+            "target_table": "target",
+            "target_column": "City"
+        },
+        {
+            "source_table": "source",
+            "source_column": "FirstName",
+            "target_table": "target",
+            "target_column": "FirstName"
+        },
+        {
+            "source_table": "source",
+            "source_column": "Income",
+            "target_table": "target",
+            "target_column": "Income"
+        }
+    ]
+}

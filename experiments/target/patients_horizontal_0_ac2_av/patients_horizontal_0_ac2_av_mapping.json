@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "source_table": "patients_horizontal_0_ac2_av_source",
+            "source_column": "PatientID",
+            "target_table": "patients_horizontal_0_ac2_av_target",
+            "target_column": "PaID"
+        },
+        {
+            "source_table": "patients_horizontal_0_ac2_av_source",
+            "source_column": "FirstName",
+            "target_table": "patients_horizontal_0_ac2_av_target",
+            "target_column": "FirNa"
+        },
+        {
+            "source_table": "patients_horizontal_0_ac2_av_source",
+            "source_column": "LastName",
+            "target_table": "patients_horizontal_0_ac2_av_target",
+            "target_column": "LaNa"
+        },
+        {
+            "source_table": "patients_horizontal_0_ac2_av_source",
+            "source_column": "City",
+            "target_table": "patients_horizontal_0_ac2_av_target",
+            "target_column": "Ci"
+        },
+        {
+            "source_table": "patients_horizontal_0_ac2_av_source",
+            "source_column": "Age",
+            "target_table": "patients_horizontal_0_ac2_av_target",
+            "target_column": "Ag"
+        },
+        {
+            "source_table": "patients_horizontal_0_ac2_av_source",
+            "source_column": "Income",
+            "target_table": "patients_horizontal_0_ac2_av_target",
+            "target_column": "In"
+        }
+    ]
+}

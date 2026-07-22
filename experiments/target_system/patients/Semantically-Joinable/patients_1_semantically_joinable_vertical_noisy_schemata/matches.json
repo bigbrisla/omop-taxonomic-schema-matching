@@ -1,0 +1,22 @@
+{
+    "matches": [
+        {
+            "source_table": "source",
+            "source_column": "PatientID",
+            "target_table": "target",
+            "target_column": "patients_ptntd"
+        },
+        {
+            "source_table": "source",
+            "source_column": "Income",
+            "target_table": "target",
+            "target_column": "patients_ncm"
+        },
+        {
+            "source_table": "source",
+            "source_column": "LastName",
+            "target_table": "target",
+            "target_column": "patients_lstnm"
+        }
+    ]
+}

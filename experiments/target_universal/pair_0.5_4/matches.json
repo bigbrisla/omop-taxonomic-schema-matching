@@ -1,0 +1,16 @@
+{
+  "matches": [
+    {
+      "source_column": "person_id",
+      "target_column": "person_id"
+    },
+    {
+      "source_column": "year_of_birth",
+      "target_column": "year_of_birth"
+    },
+    {
+      "source_column": "procedure_concept_id",
+      "target_column": "procedure_concept_id"
+    }
+  ]
+}

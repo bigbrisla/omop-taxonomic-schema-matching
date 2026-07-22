@@ -1,0 +1,17 @@
+{
+    "PatientID": {
+        "type": "int"
+    },
+    "LastName": {
+        "type": "str"
+    },
+    "Age": {
+        "type": "int"
+    },
+    "City": {
+        "type": "str"
+    },
+    "Income": {
+        "type": "float"
+    }
+}
